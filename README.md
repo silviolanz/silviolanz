@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silviolanz
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS Solutions Architect
+- 👀 I’m interested in Cloud Engineering
+- 🌱 I’m a certified AWS Solutions Architect and Developer
 - 💞️ I’m looking to collaborate on Cloud Migration
 - 📫 How to reach me: silvio.lanz@gmail.com
 
