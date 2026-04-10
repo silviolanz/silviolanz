@@ -2,6 +2,6 @@ Hello,
 
 My name is Silvio, I'm from Argentina. 
 
-- I’m currently working as a DevOps.
-- I’m a certified AWS Solutions Architect, Developer and SysOps Administrator.
+- Currently working as a DevOps / Data Platform Administrator
+- I’m certified in AWS and Databricks
 - You can reach me at: silvio.lanz@gmail.com 📫
